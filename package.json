@@ -1,1 +1,1 @@
-{"scripts": {"dev": "vite", "build": "vite build", "deploy": "gh-pages -d dist"}}
+{\n  \"name\": \"htmlpro\",\n  \"version\": \"1.0.0\",\n  \"scripts\": {\n    \"predeploy\": \"npm run build\",\n    \"deploy\": \"gh-pages -d dist\"\n  },\n  \"devDependencies\": {\n    \"gh-pages\": \"^3.2.3\"\n  }\n}
