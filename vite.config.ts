@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: './', // Esto asegura que funcione en cualquier subcarpeta o hosting
+  base: '/HTMLPro/', // GitHub Pages sirve la app desde /HTMLPro/
 });
