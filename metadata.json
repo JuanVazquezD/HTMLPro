@@ -1,0 +1,7 @@
+{
+  "name": "Visual Web & Email Builder Pro",
+  "description": "A high-end drag-and-drop HTML constructor with advanced interactive elements, undo/redo, and voice features.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
